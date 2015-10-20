@@ -1,4 +1,4 @@
-name: null
+name: Deverill
 favicon: null
 layout_spectrum: 0.7312764513771981
 typography_spectrum: 0.8303035609424114
@@ -16,7 +16,7 @@ opengraph:
   appId: null
 color:
   brandColors: []
-  brandStrength: 0.3053305260837078
+  brandStrength: 0.3125
   lightness: 0.48006268637254834
   saturation: 0.35472438391298056
   rhythmicContrast: 0.21404856094159186
