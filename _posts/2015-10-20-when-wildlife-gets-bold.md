@@ -1,24 +1,24 @@
 ---
-inFeed: true
-hasPage: false
+inFeed: false
+hasPage: true
 inNav: false
-isBasedOnUrl: 'http://jimscomputing.com/np/2014/04/19/when-wildlife-gets-bold/'
 inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2015-10-20T02:36:29.653Z'
-dateModified: '2015-10-20T02:36:17.302Z'
+datePublished: '2015-11-10T02:21:23.150Z'
+dateModified: '2015-11-10T02:01:00.113Z'
 author: []
 title: "When wildlife gets bold\_"
+sourcePath: _posts/2015-10-20-when-wildlife-gets-bold.md
+published: true
 authors: []
 publisher:
   name: jimscomputing.com
   domain: jimscomputing.com
   url: null
   favicon: null
-sourcePath: _posts/2015-10-20-when-wildlife-gets-bold.md
-published: true
+url: when-wildlife-gets-bold/index.html
 _context: 'http://schema.org'
 _type: Article
 
